@@ -1,5 +1,7 @@
 # Git 교과서
 
+-   https://git.jiny.dev/
+
 ## SSH 키가 생성되었다면
 
 -   키를 ssh 에이전트에 추가
